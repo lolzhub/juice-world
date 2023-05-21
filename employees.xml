@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE employees SYSTEM "emp.dtd">
+<?xml-stylesheet type="text/css" href="css_for_xml.css"?>
+
+<employees>
+  <employee>
+    <id>001</id>
+    <name>John Doe</name>
+    <salary>50000</salary>
+  </employee>
+  <employee>
+    <id>002</id>
+    <name>Jane Smith</name>
+    <salary>60000</salary>
+  </employee>
+  <employee>
+    <id>003</id>
+    <name>Bob Johnson</name>
+    <salary>70000</salary>
+  </employee>
+  <employee>
+    <id>004</id>
+    <name>Alice Lee</name>
+    <salary>55000</salary>
+  </employee>
+  <employee>
+    <id>005</id>
+    <name>Mike Davis</name>
+    <salary>65000</salary>
+  </employee>
+  <employee>
+    <id>006</id>
+    <name>Emily Chen</name>
+    <salary>80000</salary>
+  </employee>
+  <employee>
+    <id>007</id>
+    <name>David Kim</name>
+    <salary>75000</salary>
+  </employee>
+  <employee>
+    <id>008</id>
+    <name>Samantha Brown</name>
+    <salary>90000</salary>
+  </employee>
+  <employee>
+    <id>009</id>
+    <name>Chris Nguyen</name>
+    <salary>60000</salary>
+  </employee>
+  <employee>
+    <id>010</id>
+    <name>Stephanie Wong</name>
+    <salary>70000</salary>
+  </employee>
+
+</employees>
+
